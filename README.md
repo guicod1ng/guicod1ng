@@ -21,7 +21,6 @@ I’m focused on building a solid foundation in programming and continuously imp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
 </p>
-
 ---
 
 ## 🌐 Where to find me
