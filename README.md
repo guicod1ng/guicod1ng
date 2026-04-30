@@ -46,14 +46,7 @@ Focused on building scalable back-end solutions, I’m constantly improving my s
 
 ## 🌐 Connect with me
 
-<p>
-  <a href="https://www.linkedin.com/in/guilhermecode/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-  </a>
-  <a href="https://www.instagram.com/guicod1ng/">
-    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
-  </a>
-</p>
+<p> <a href="https://www.linkedin.com/in/guilhermecode/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://www.instagram.com/guicod1ng/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> </p>
 
 ---
 
