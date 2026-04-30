@@ -1,42 +1,57 @@
-# Guilherme lopes 💻 BR
+# Guilherme Lopes 💻
 
-🚀 Software engineering Student
+🚀 Back-end Developer | Software Engineering Student
+
+---
+
+## 🧠 About Me
+
+I'm Guilherme Lopes, 20 years old, currently studying Software Engineering at Gran Faculdade.
+
+Focused on building scalable back-end solutions, I’m constantly improving my skills in API development, clean architecture, and modern web technologies.
 
 ---
 
-## 🧠 About me
-
-My name is Guilherme lopes, I’m 20 years old and a Softaware engineering student at Gran Faculdade.
-I’m focused on building a solid foundation in programming and continuously improving my web development skills.
-
----
 ## 🚀 Tech Stack
 
-### 🧠 Linguagens
+### 🧠 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF)
 
-### 🗄️ Banco de Dados
+### 🗄️ Database & ORM
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=316192)
+![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=FFFFFF)
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+### 🧪 Testing
+![Jest](https://img.shields.io/badge/Jest-0D1117?style=for-the-badge&logo=jest&logoColor=C21325)
 
+### ⚙️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Render](https://img.shields.io/badge/Render-0D1117?style=for-the-badge&logo=render&logoColor=46E3B7)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
 
-## 🌐 Where to find me
+---
+
+## 📌 Current Focus
+
+- Building REST APIs with TypeScript  
+- Authentication and security (JWT)  
+- Clean code and scalable architecture  
+
+---
+
+## 🌐 Connect with me
 
 <p>
   <a href="https://www.linkedin.com/in/guilhermecode/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
   <a href="https://www.instagram.com/guicod1ng/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
   </a>
 </p>
 
@@ -44,4 +59,4 @@ I’m focused on building a solid foundation in programming and continuously imp
 
 ## 📫 Contact
 
-* Email: [lerichlesss@gmail.com](mailto:lerichlesss@gmail.com)
+📧 lerichlesss@gmail.com
