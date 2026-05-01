@@ -7,7 +7,7 @@
 🎥 Connect with me on [LinkedIn](https://www.linkedin.com/in/guilhermecode/)
 
 
- 📩 Contact me: [seuemail@email.com](mailto:lerichlesss@gmail.com)
+ 📩 Contact me: [lerichlesss@gmail.com](mailto:lerichlesss@gmail.com)
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" style="margin-right: 8px;" />
