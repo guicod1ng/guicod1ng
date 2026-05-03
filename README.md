@@ -16,7 +16,9 @@
   <img src="https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=express&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Prisma-FFFFFF?style=for-the-badge&logo=prisma&logoColor=000000"/>
   <img src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/Jest-FFFFFF?style=for-the-badge&logo=jest&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Jest-FFFFFF?style=for-the-
+  badge&logo=jest&logoColor=000000"/>
+ <img src="https://img.shields.io/badge/AWS_Lambda-FFFFFF?style=for-the-badge&logo=awslambda&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=000000"/>
 </p>
