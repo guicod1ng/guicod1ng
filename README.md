@@ -8,17 +8,16 @@
 
 
  📩 Contact me: [lerichlesss@gmail.com](mailto:lerichlesss@gmail.com)
-
-<p>
+ 
+<p align="left">
   <img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=000000"/>
   <img src="https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=node.js&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=express&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Prisma-FFFFFF?style=for-the-badge&logo=prisma&logoColor=000000"/>
   <img src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/Jest-FFFFFF?style=for-the-
-  badge&logo=jest&logoColor=000000"/>
- <img src="https://img.shields.io/badge/AWS_Lambda-FFFFFF?style=for-the-badge&logo=awslambda&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Jest-FFFFFF?style=for-the-badge&logo=jest&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/AWS_Lambda-FFFFFF?style=for-the-badge&logo=awslambda&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=000000"/>
 </p>
